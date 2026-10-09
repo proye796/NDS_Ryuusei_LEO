@@ -15,13 +15,7 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei-Leo-KO-v1.0.nds | 33,554,432 | a04a6bc7cea185e95a24b9bdeddff88df4f79041f0898516934f230e1cea53a6 |
-
-## 배포 파일
-
-| 파일 | 크기(바이트) | SHA-256 |
-|---|---|---|
-| Ryuusei-Leo-KO-v1.0.bps | 1,513,134 | 876ce54d76a29fa817ba623460b1dfc67d3cbcba33f4907a8c46ec9a401ef776 |
+| Ryuusei-Leo-KO-v1.0.nds | 33,554,432 | 11b96cc1078a927f0c83fd2de5ccae902524f950be8a71abff8ca3bfdb697291 |
 
 
 ## 추가 기능
