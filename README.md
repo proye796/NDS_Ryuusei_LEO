@@ -1,4 +1,4 @@
-# 流星のロックマン レオ NDS 한국어 패치 v1.0.2
+# 流星のロックマン レオ NDS 한국어 패치 v1.0.2.1
 
 배포일: 2026-10-10
 대상: Ryuusei no Rockman - Leo 일본판
@@ -15,14 +15,14 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei-Leo-KO-v1.0.2.nds | 33,554,432 | 65de50e8777c7166751f1dc4772f2f12f64a18baaa1ac137b562e486918aea31 |
+| Ryuusei-Leo-KO-v1.0.2.1.nds | 33,554,432 | a865985e093057e6a5828c6112dcba0e5d50cd8153b9c9bfc699d00c0d34655a |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei-Leo-KO-v1.0.2-personal.zip | 678,290 | c56399963c8e7d0d81071fb81b9052e401e2cc64a43ecc17ec596ab569432143 |
-| Ryuusei-Leo-KO-v1.0.2.bps | 1,529,018 | 3ceec993f1a856ecad8bac8d21fd3d48555c6ae34e39a5739e3be13e8c800698 |
+| Ryuusei-Leo-KO-v1.0.2.1-personal.zip | 678,285 | b58cea10281d4cc5cc82bcdce3a5a5dc6c373586657b8e311c1235d71e4807ff |
+| Ryuusei-Leo-KO-v1.0.2.1.bps | 1,529,011 | 2236515568bf893e71c2869d14734884edd193a22945a0b567e359f0ca92bca0 |
 
 
 ## 추가 기능
