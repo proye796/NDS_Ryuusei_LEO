@@ -1,6 +1,6 @@
-# 流星のロックマン ペガサス・レオ・ドラゴン NDS 한국어 패치 v1.3
+# 流星のロックマン ペガサス・レオ・ドラゴン NDS 한국어 패치 v1.3.1
 
-배포일: 2026-11-01
+배포일: 2026-11-04\
 대상: 流星のロックマン 일본판 3종 — ペガサス A6AJ, レオ A6BJ, ドラゴン A6CJ, 모두 revision 0
 
 페가수스·레오·드래곤마다 패치가 따로 있습니다. 각 패치는 그 버전의 일본판 원본에 적용하고, 만들어진 ROM은 그 버전만 합니다. 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
@@ -17,20 +17,19 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei-Pegasus-KO-v1.3.nds | 33,554,432 | 55161de9f84c2c61eede76b6a56278115b8498588be96915806ad19f31e31139 |
-| Ryuusei-Leo-KO-v1.3.nds | 33,554,432 | 26c4c47ecbade950fb9e68b576c649af1669352f99b0a9201d19a0a8a6a1b736 |
-| Ryuusei-Dragon-KO-v1.3.nds | 33,554,432 | 94fe64e487ac868fd0b3e2175f014711287ff82de7f3aa593600100889c02225 |
+| Ryuusei-Pegasus-KO-v1.3.1.nds | 33,554,432 | e8ee940c20651cfd7a82757a22e4b9782a703c064054662d7fec31b1013d2a74 |
+| Ryuusei-Leo-KO-v1.3.1.nds | 33,554,432 | 9fc1c3d9af5a04b01fb60d6745997d946110ac31fdd012c6e67bce3055fa2b8e |
+| Ryuusei-Dragon-KO-v1.3.1.nds | 33,554,432 | 86801d341c9d9c1298537d17fdcd4b48eba778bf4038613da2e727207bf42b20 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei-KO-v1.3-personal.zip | 2,359,079 | 74e6857422bc65f33a8e20ad21f5c6ba26dfb6ef37aa3388af3e03556ba8c7c5 |
-| Ryuusei-Pegasus-KO-v1.3.bps | 1,939,973 | 37d837d3fa45b77b8d772ebfb14b511b0fe2a7eb35f20abe57fcf06e6d00446f |
-| Ryuusei-Leo-KO-v1.3.bps | 1,547,817 | fd0bff769d27de0e36a18046bdf1d36ea61e4ddf11a466916a91cd6e8789c45e |
-| Ryuusei-Dragon-KO-v1.3.bps | 1,581,849 | 4b9b265884ad093ecafdf807ceecb4828fac5def12360f5aba24fed468a0936c |
+| Ryuusei-KO-v1.3.1-personal.zip | 2,360,643 | 31de63c0dbc6b4c3ad4980dab336bd844bebc121f289aad242459ce95f9c3bb2 |
+| Ryuusei-Pegasus-KO-v1.3.1.bps | 1,940,211 | 3bb2ec475dce13f38d5f0d9e2307f65d8a045b308c4a10dfe40c540dca4dd22f |
+| Ryuusei-Leo-KO-v1.3.1.bps | 1,548,451 | 093697537bf80c128f49c62ac5eeac03782db42a19e4e080952b5dc66ba5e7c3 |
+| Ryuusei-Dragon-KO-v1.3.1.bps | 1,582,351 | f32c600223550a5dafe3b456433532460992ea47dc51ea9d8853b8be8b3e3450 |
 | split_save.exe | 79,872 | 1022d258e8e972a3c3cc2aa8911bccbda09d8e4e6727418027a543642b9cb342 |
-
 ## 추가 기능
 
 받은 것은 저장해야 남습니다. 게임 안에서 직접 모을 수 있는 것은 넣지 않았습니다. 쓰기 전에 세이브 파일을 따로 복사해 두세요. 세 버전 패치 모두 같습니다.
